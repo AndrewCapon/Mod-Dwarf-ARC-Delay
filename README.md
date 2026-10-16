@@ -41,7 +41,7 @@ Output gain for the plugin, range -40 dB to + 40 dB
 
 A multiplier for the LFO speeds, range 1-100
 
-## Delay Line controls
+## Delay Line controls (4 sets of these)
 
 ### INPUT
 
