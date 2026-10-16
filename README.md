@@ -51,38 +51,38 @@ Choose the external input into this line. Left, Right, Sum or None. When None is
 
 If tempo is one of the BPM modes then here you can select the delay time from:
 
-1/1
-1/2
-1/4
-1/8
-1/16
-1/32
-1/64
-1/1 dot
-1/2 dot
-1/4 dot
-1/8 dot
-1/16 dot
-1/32 dot
-1/64 dot
-1/1 trip
-1/2 trip
-1/4 trip
-1/8 trip
-1/16 trip
-1/32 trip
-1/64 trip
+1/1,
+1/2,
+1/4,
+1/8,
+1/16,
+1/32,
+1/64,
+1/1 dot,
+1/2 dot,
+1/4 dot,
+1/8 dot,
+1/16 dot,
+1/32 dot,
+1/64 dot,
+1/1 trip,
+1/2 trip,
+1/4 trip,
+1/8 trip,
+1/16 trip,
+1/32 trip,
+1/64 trip,
 
 ### FILTER TYPE
 
 Choose the filter type from:
 
-Low Pass 12db
-Low Pass 24db
-High Pass 12db
-High Pass 24db
-Band Pass 12db
-Band Pass 24db
+Low Pass 12db,
+Low Pass 24db,
+High Pass 12db,
+High Pass 24db,
+Band Pass 12db,
+Band Pass 24db,
 
 ### TIME RATIO
 
@@ -124,9 +124,9 @@ The ratio of the output of the line feedback into delay line 4.
 
 Choose the LFO type from:
 
-Tri
-Sine
-Square
+Tri,
+Sine,
+Square,
 Saw
 
 ### LFO FREQ
